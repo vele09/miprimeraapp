@@ -1,0 +1,1 @@
+console.log("Hola, soy Valeria tengo 14 años soy de San Luis Potosi, SLP, Mexico me gusta el color rosa  ");
